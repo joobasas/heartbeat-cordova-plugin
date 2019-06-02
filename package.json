@@ -1,0 +1,26 @@
+{
+  "cordova": {
+    "id": "heartbeat",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "description": "Cordova Heart Beat Monitor",
+
+  "homepage": "https://github.com/joobasas/heartbeat-cordova-plugin#readme",
+  "keywords": [
+    "cordova",
+    "heart",
+    "beat",
+    "rate",
+    "bpm"
+  ],
+  "name": "heartbeat",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joobasas/heartbeat-cordova-plugin"
+  },
+
+  "version": "0.2.2"
+}
