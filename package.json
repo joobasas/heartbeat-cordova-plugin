@@ -1,14 +1,15 @@
 {
+  "name": "cordova-plugin-heartbeat",
+  "description": "Cordova Heart Beat Monitor",
+  "version": "0.2.2",
+  "homepage": "https://github.com/joobasas/heartbeat-cordova-plugin#readme",
   "cordova": {
-    "id": "heartbeat",
+    "id": "cordova-plugin-heartbeat",
     "platforms": [
       "android",
       "ios"
     ]
   },
-  "description": "Cordova Heart Beat Monitor",
-
-  "homepage": "https://github.com/joobasas/heartbeat-cordova-plugin#readme",
   "keywords": [
     "cordova",
     "heart",
@@ -16,11 +17,8 @@
     "rate",
     "bpm"
   ],
-  "name": "heartbeat",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/joobasas/heartbeat-cordova-plugin"
-  },
-
-  "version": "0.2.2"
+  }
 }
