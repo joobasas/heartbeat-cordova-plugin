@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-heartbeat",
+  "name": "com.litekey.cordova.plugins.heartbeat",
   "description": "Cordova Heart Beat Monitor",
   "version": "0.2.2",
   "homepage": "https://github.com/joobasas/heartbeat-cordova-plugin#readme",
   "cordova": {
-    "id": "cordova-plugin-heartbeat",
+    "id": "com.litekey.cordova.plugins.heartbeat",
     "platforms": [
       "android",
       "ios"
